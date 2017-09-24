@@ -1,0 +1,4 @@
+Square: 6 cm
+King: base - 4,5 cm; height - 9,5 cm
+Other figures: base - 4 cm
+Pawn: base - 3cm
